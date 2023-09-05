@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753384372996",
+    "project_id": "nexus-6e13c",
+    "storage_bucket": "nexus-6e13c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753384372996:android:75af6363381a378a302e51",
+        "android_client_info": {
+          "package_name": "com.maxy.nexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753384372996-rmesavmsdqcd0etkmaaci9vt4pibu0e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXRjAqaaCERMwrxTrWvpoMWZzVsD1oFDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753384372996-rmesavmsdqcd0etkmaaci9vt4pibu0e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
